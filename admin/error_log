@@ -1,0 +1,5 @@
+[03-Apr-2021 09:49:09 Asia/Tehran] PHP Warning:  mysqli_query(): Empty query in /home3/linkemac/public_html/admin/routing-index.php on line 65
+[03-Apr-2021 09:49:09 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/linkemac/public_html/admin/routing-index.php on line 68
+[03-Apr-2021 15:32:40 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file in /home3/linkemac/public_html/admin/user-index.php on line 168
+[03-Apr-2021 15:32:51 Asia/Tehran] PHP Warning:  mysqli_query(): Empty query in /home3/linkemac/public_html/admin/routing-index.php on line 65
+[03-Apr-2021 15:32:51 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/linkemac/public_html/admin/routing-index.php on line 68

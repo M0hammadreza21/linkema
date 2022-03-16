@@ -1,0 +1,4 @@
+[03-Apr-2021 09:58:47 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/linkemac/public_html/admin/datatable/ajaxfile.php on line 36
+[03-Apr-2021 09:58:50 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/linkemac/public_html/admin/datatable/ajaxfile.php on line 36
+[03-Apr-2021 10:00:04 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/linkemac/public_html/admin/datatable/ajaxfile.php on line 28
+[03-Apr-2021 10:00:04 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/linkemac/public_html/admin/datatable/ajaxfile.php on line 36

@@ -1,0 +1,24 @@
+[04-Apr-2021 15:23:37 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/linkemac/public_html/reorder/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/linkemac/public_html/reorder/index.php on line 41
+[04-Apr-2021 15:24:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/linkemac/public_html/reorder/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/linkemac/public_html/reorder/index.php on line 41
+[04-Apr-2021 15:25:41 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/linkemac/public_html/reorder/ajaxPro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/linkemac/public_html/reorder/ajaxPro.php on line 14
+[04-Apr-2021 15:27:36 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/linkemac/public_html/reorder/ajaxPro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/linkemac/public_html/reorder/ajaxPro.php on line 14
+[04-Apr-2021 15:27:38 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/linkemac/public_html/reorder/ajaxPro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/linkemac/public_html/reorder/ajaxPro.php on line 14
+[04-Apr-2021 15:27:40 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/linkemac/public_html/reorder/ajaxPro.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/linkemac/public_html/reorder/ajaxPro.php on line 14

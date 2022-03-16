@@ -1,0 +1,11 @@
+[03-Apr-2021 14:28:20 Asia/Tehran] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'linkemac_mohammadrezapyax}nO-[nYW'@'localhost' (using password: YES) in /home3/linkemac/public_html/admin/crud/jquery-ajax-inline-crud-with-php/dbcontroller.php on line 17
+[03-Apr-2021 14:28:20 Asia/Tehran] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home3/linkemac/public_html/admin/crud/jquery-ajax-inline-crud-with-php/dbcontroller.php on line 22
+[03-Apr-2021 14:28:20 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/linkemac/public_html/admin/crud/jquery-ajax-inline-crud-with-php/dbcontroller.php on line 23
+[03-Apr-2021 14:29:28 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home3/linkemac/public_html/admin/crud/jquery-ajax-inline-crud-with-php/add.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/linkemac/public_html/admin/crud/jquery-ajax-inline-crud-with-php/add.php on line 6
+[03-Apr-2021 14:30:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home3/linkemac/public_html/admin/crud/jquery-ajax-inline-crud-with-php/add.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/linkemac/public_html/admin/crud/jquery-ajax-inline-crud-with-php/add.php on line 6
